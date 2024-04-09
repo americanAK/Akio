@@ -1,0 +1,29 @@
+{
+    "animals": [
+      {
+        "name": "Indian Cobra",
+        "scientificName": "Naja naja",
+        "habitat": "South Asia",
+        "description": "The Indian Cobra, also known as the Spectacled Cobra, is a venomous snake species that can be found in various parts of South Asia, including Sri Lanka. Known for its distinct hood, the Indian Cobra is easily identifiable by the spectacle-like markings on the back of its hood."
+      },
+      {
+        "name": "Orange-billed Babbler",
+        "scientificName": "Turdoides rufescens",
+        "habitat": "Tropical forests and scrublands",
+        "description": "The Orange-billed Babbler is a distinctive bird species found in the lush tropical forests and scrublands of Sri Lanka. Belonging to the Leiothrichidae family, these small, social birds are known for their vibrant orange bills."
+      },
+      {
+        "name": "Purple-faced Langur",
+        "scientificName": "Semnopithecus vetulus",
+        "habitat": "Lush forests",
+        "description": "The Purple-faced Langur, also known as the Purple-faced Leaf Monkey, is an Old World monkey species that inhabits the lush forests of Sri Lanka. Renowned for its unique appearance, this primate species gets its name from the distinctive purple hue on its face and the contrasting black fur on the rest of its body."
+      },
+      {
+        "name": "Russell's Viper",
+        "scientificName": "Daboia russelii",
+        "habitat": "Various habitats",
+        "description": "Russell's Viper is a venomous snake species found in various habitats across South Asia, including Sri Lanka. Known for its potent venom and distinctive appearance, this snake is characterized by its large, triangular head and a series of dark bands or chevron-shaped markings along its body."
+      }
+    ]
+  }
+  

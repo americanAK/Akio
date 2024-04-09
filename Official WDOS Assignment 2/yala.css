@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    padding: 0;
+    background-color: grey;
+   
+}
+.backgroundsection1 {
+    background-image: url('./yala\ puc\ .jpg'); 
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff; 
+}
+.content1 {
+    text-align: center;
+}
+.content1 h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: black;
+    font-weight: 400;
+    font-size: 130px;
+    transition: 1s;
+}
+.content1 :hover{
+    -webkit-text-stroke: 3px white;
+     color: transparent;
+}
+
+.content1 p {
+    font-size: 18px;
+}
+nav{
+    width: 100%;
+    display: flex;
+    left: 0;
+    position: fixed;
+    top: 0;
+    padding: 20px 8;
+    align-items: center;
+    justify-content: space-between;
+   
+
+
+
+}
+nav .logo{
+    width: 80px;
+    height: 80px;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 10 px;
+    color: yellow;
+    margin-left: 10px;
+    
+    
+}
+nav ul li{
+    display: inline-block;
+    margin-left: 3px;
+    list-style: none;
+    padding: 0 15px;
+}
+.section1 body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman';
+
+
+}
+.section1 {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 80%;
+    margin-left: 40px;
+}
+
+.section1 img{
+    height: 250px;
+    width: 500px;
+}
+.section1 h1{
+    color: greenyellow;
+    text-align: center;
+}
+.text1 p{
+    color: white;
+
+}
+.column img{
+    width: 50%;
+    height: auto;
+    align-content: center;
+    align-items: center;
+}
+.row {
+    margin-left: 40px;
+    align-items: center;
+
+}
+.column h2{
+    text-align: center;
+}
+.yalaintro2 .yalacontainer2 {
+    padding-block: 50px;
+    padding-inline: 50px;
+    display: flex;
+    gap: 40px;
+    text-align: justify;
+    border-left: black;
+}
+.yalaintro2 .yalacontainer2{
+    flex: 1;
+}
+.yalaintro2 .yalacontainer2 .map{
+    border-radius: 8px;
+    overflow: hidden;
+    padding: 0;
+}
+.yalafooter {
+    text-align: center;
+    background-color: aqua;
+}

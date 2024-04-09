@@ -1,0 +1,23 @@
+{
+    "location": {
+      "description": "Wilpattu National Park is located on the northwest coast of Sri Lanka, within the North Western and North Central provinces. The park covers a vast area, and there are several entrances to access different sections of Wilpattu. The main entrance is often considered to be through the town of Anuradhapura.",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      }
+    },
+    "about": {
+      "title": "About the Wilpattu National Park",
+      "description": "Wilpattu National Park, situated on the northwest coast of Sri Lanka, stands as the largest and oldest national park in the country, spanning approximately 1,317 square kilometers. Renowned for its unique landscape, Wilpattu is characterized by a mix of dense scrublands, natural lakes known as 'villus,' and open grassy plains. The park's name, 'Wilpattu,' is derived from the term 'Willu,' meaning natural lakes, emphasizing the significance of its interconnected water bodies. This expansive park is celebrated for its diverse ecosystems, offering a habitat for a wide variety of flora and fauna, including several species of mammals, birds, reptiles, and amphibians.",
+      "wildlife": {
+        "leopard": "Sri Lankan leopard",
+        "bear": "sloth bear",
+        "deer": "spotted deer",
+        "elephants": "elephants",
+        "birdlife": "a rich diversity of birdlife"
+      },
+      "unique_feature": "The unique feature of Wilpattu is its natural lakes, which serve as a crucial water source during the dry season, attracting numerous animals for watering and feeding.",
+      "importance": "The park's untamed beauty, combined with its cultural and ecological importance, makes Wilpattu a captivating destination for nature enthusiasts and wildlife photographers seeking an authentic and immersive safari experience in Sri Lanka."
+    }
+  }
+    

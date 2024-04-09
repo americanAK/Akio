@@ -1,0 +1,10 @@
+.background-section {
+    background-image: url('./wallpaper\ background.jpg'); 
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff; 
+}

@@ -1,0 +1,170 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    padding: 0;
+    background-color: grey;
+   
+}
+.backgroundsection1 {
+    background-image: url('./new\ wilpathu\ 33.jpeg'); 
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff; 
+}
+.content1 {
+    text-align: center;
+}
+.content1 h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: black;
+    font-weight: 400;
+    font-size: 130px;
+    transition: 1s;
+}
+.content1 :hover{
+    -webkit-text-stroke: 3px white;
+     color: transparent;
+}
+
+.content1 p {
+    font-size: 18px;
+}
+nav{
+    width: 100%;
+    display: flex;
+    left: 0;
+    position: fixed;
+    top: 0;
+    padding: 20px 8;
+    align-items: center;
+    justify-content: space-between;
+   
+
+
+
+}
+nav .logo{
+    width: 80px;
+    height: 80px;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 10 px;
+    color: yellow;
+    margin-left: 10px;
+    
+    
+}
+nav ul li{
+    display: inline-block;
+    margin-left: 3px;
+    list-style: none;
+    padding: 0 15px;
+}
+.section23 body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman';
+
+
+}
+.section23 {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 80%;
+    margin-left: 40px;
+}
+
+.section23 img{
+    height: 250px;
+    width: 500px;
+}
+.section23 h1{
+    color: greenyellow;
+    text-align: center;
+}
+.text23 p{
+    color: white;
+
+}
+.column1 img{
+    width: 50%;
+    height: auto;
+    align-content: center;
+    align-items: center;
+}
+.row1 {
+    margin-left: 40px;
+    align-items: center;
+
+}
+.column1 h2{
+    text-align: center;
+}
+.wilpaintro .wilpacontainer {
+    padding-block: 50px;
+    padding-inline: 50px;
+    display: flex;
+    gap: 40px;
+    text-align: justify;
+    border-left: black;
+}
+.wilpaintro .wilpacontainer{
+    flex: 1;
+}
+.wilpaintro .wilpacontainer .map{
+    border-radius: 8px;
+    overflow: hidden;
+    padding: 0;
+}
+.wilpafooter {
+    text-align: center;
+    background-color: aqua;
+    
+}
+
+
+@media only screen and (max-width: 768px) {
+    .backgroundsection1 {
+        padding: 10px;
+    }
+}
+    .content1 h1 {
+        font-size: 24px; 
+    }
+
+    .content1 p {
+        font-size: 14px; 
+    }
+
+    nav {
+        padding: 10px 8px; 
+    }
+    .conservation-map {
+        width: 100px;
+        height: 100px;
+    }
+    .section23 img{
+        width: 200px;
+        height: 100px;
+    }
+    .section23 {
+        background-color: white;
+        width: 80%;
+        
+        background-position: center;
+        background-size: cover;
+       
+        display: block;
+        
+}   
+
+    

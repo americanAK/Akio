@@ -1,0 +1,37 @@
+{
+    "wildlife_highlights": {
+      "title": "Seven Wildlife Higlights:",
+      "subtitle": "Seven animals you have to see in the Pearl of the Indian Ocean",
+      "content": "Like many islands, Sri Lanka boasts a high number of endemic species, animals and plants found nowhere else on Earth. The country is also regarded as one of the world's top five hotspots for biodiversity, testament to the sheer number of species which call the tear drop isle home. Sri Lanka teems with wildlife. From great herds of trumpeting Asian elephants to elusive leopards and strange looking sloth bears, the country's national parks are home to all manner of amazing creatures. Here's a guide to what you can expect to see during your visit. The Sri Lanka department of Wildlife Conservation recently published a list of the seven most iconic wild animals in the island as a way of promoting tourism and the conservation of all species in and outside this list. Sri Lanka is somewhat of an outlier when it comes to biodiversity. Experts have been studying the biodiversity of this small island since the early 20th century, and all with good reason. The number of animal species in the island is said to be five times as much as it is supposed to be in an island of its size, and the number of endemic species in the country is amazing. From endemic birds to endemic primates, Sri Lanka has them all. The wonder of Sri Lanka – being such a small island – is that you don’t have to travel far to see any of them."
+    },
+    "national_parks": [
+      {
+        "name": "Gal Oya National Park",
+        "description": "The only national park in Sri Lanka where you can take a boat safari, Gal Oya protects the vast Senanayake Samudra Reservoir. The park is home to 32 mammal species, with a visitor highlight being the sight of herds of elephants swimming across the reservoir from one island to another.",
+        "images": [
+          "./GAL oya pic 1.jpeg",
+          "./Gal+Oya 2.jpeg"
+        ],
+        "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2030567.0521870248!2d79.21805673194265!3d6.270138634944348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae4e2a00da92731%3A0x2792347a67187b94!2sGal%20Oya%20Valley%20National%20Park!5e0!3m2!1sen!2slk!4v1705250218360!5m2!1sen!2slk"
+      },
+      {
+        "name": "Minneriya National Park",
+        "description": "As part of Sri Lanka’s elephant corridor, large numbers of elephants migrate across the country to Minneriya every year. Known as ‘The Gathering’, as many as 300 come to the park’s reservoir in the largest meeting of Asian elephants anywhere in the world.",
+        "images": [
+          "./Minneriya-National-Park-1.jpeg",
+          "./minneriya-2.jpeg"
+        ],
+        "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31606.703364183562!2d80.80862141083986!3d8.015644300000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afb6009a20be05d%3A0xa4d046f2f06b05f5!2sMinneriya%20National%20Park!5e0!3m2!1sen!2slk!4v1705251612084!5m2!1sen!2slk"
+      },
+      {
+        "name": "Horton plains national park",
+        "description": "Set over 2,000 metres above sea level, the Horton Plains feel a world apart from the rest of Sri Lanka. Large areas of the park are covered in pristine cloud forest, with dramatically plunging cliffs at its southern boundary. Home to a variety of endemic species, it’s one of the best places for bird watching.",
+        "images": [
+          "./horton 1.jpeg",
+          "./Horton_Plains_National_Park_Photos_By_360viewlk-3-1-1024x683.jpeg"
+        ],
+        "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.6739945881077!2d80.79975837462534!3d6.809451319775093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae3882edb4b78ef%3A0xcebca89153777249!2sHorton%20Plains%20National%20Park!5e0!3m2!1sen!2slk!4v1705252687537!5m2!1sen!2slk"
+      }
+    ]
+  }
+  

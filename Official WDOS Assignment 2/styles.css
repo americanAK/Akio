@@ -1,0 +1,411 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    padding: 0;
+    background-color: grey;
+   
+}
+
+.background-section {
+    background-image: url('./wallpaper\ background.jpg'); 
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff; 
+}
+
+.content {
+    text-align: center;
+}
+
+.content h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: black;
+    font-weight: 400;
+    font-size: 130px;
+    transition: 1s;
+}
+.content:hover{
+    -webkit-text-stroke: 3px white;
+     color: transparent;
+}
+
+.content p {
+    font-size: 18px;
+}
+nav{
+    width: 100%;
+    display: flex;
+    left: 0;
+    position: fixed;
+    top: 0;
+    padding: 20px 8;
+    align-items: center;
+    justify-content: space-between;
+   
+
+
+
+}
+nav .logo{
+    width: 80px;
+    height: 80px;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 10 px;
+    color: yellow;
+    margin-left: 10px;
+    
+    
+}
+nav ul li{
+    display: inline-block;
+    margin-left: 3px;
+    list-style: none;
+    padding: 0 15px;
+}
+h1 { 
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.mangrove h1 {
+    text-align: center;
+
+}
+.mangrove p{
+    text-align: center;
+}
+.Monkey{
+ width: 700px;
+ height: 400px;
+ float: left;
+
+}
+
+.wildintropic{
+    float: right;
+    width: 400px;
+    height: 200px;
+}
+.introwild p{
+    text-align: center;
+    text-decoration: none;
+    text-justify: auto;
+    
+
+}
+.introwild h1{
+    text-align: center;
+    color: darkred;
+}
+.introwild h2{
+    text-align: center;
+    color: lightgrey;
+}
+.national-parkcontent{
+    background-color: azure;
+    border: 50px solid black;
+    background-image: url(./backgorund\ seciton\ 2.jpeg);
+    
+
+}
+.national-parkcontent p{
+    text-align: center;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.national-parkcontent h1{
+    color: darkred;
+}
+
+.parkpictures {
+    flex-wrap: wrap;
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+   
+}
+.parkpictures img {
+    width: 400px;
+    height: auto;
+    margin-bottom: 20px;
+
+}
+    
+.nationalpark-map { 
+    align-content: center;
+    justify-content: center;
+    padding-left: 50px ;
+    padding-bottom: 0%;
+
+
+}
+.table-content img {
+    width: 60%;
+    height: auto;
+}
+.table-content {
+    table-layout: #fff;
+
+}
+table {
+    border-collapse: collapse; 
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd; 
+    padding: 8px; 
+    text-align: left; 
+}
+
+th {
+    background-color: #f2f2f2; 
+}
+/*-----department of wildlife conservation------*/
+/*---introduction------*/
+.mainintro1 .textcontainer-1 {
+    padding-block: 50px;
+    padding-inline: 50px;
+    display: flex;
+    gap: 40px;
+    text-align: justify;
+    border-left: black;
+}
+
+.mainintro1 .textcontainer-1 {
+    flex: 1;
+}
+
+.mainintro1 .textcontainer-1.img {
+    border-radius: 8px;
+    overflow: hidden;
+    padding: 0;
+}
+.mainintro2 .textcontainer-2 {
+    padding-block: 50px;
+    padding-inline: 50px;
+    display: flex;
+    gap: 40px;
+    text-align: justify;
+    border-left: black;
+}
+.mainintro2 .textcontainer-2{
+    flex: 1;
+}
+.mainintro2 .textcontainer-2 .map{
+    border-radius: 8px;
+    overflow: hidden;
+    padding: 0;
+}
+.flexbox-container {
+    margin: 0;
+    padding: 0;
+    font-family: 'Alpha Slab one', cursive;
+    
+}
+.flexbox-container .body {
+    display: flex;
+    justify-content: center;
+    background-color: ""; 
+    
+}
+.flexbox-container {
+    position: relative;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: wrap;
+    margin: 30px;
+    margin-top: 8%;
+   
+
+}
+.flexbox-container .card{
+        width: 308px;
+        position: relative;
+        height: 400px;
+        background: #f0f0f0;
+        margin: 30px 10px;
+        padding: 20px 15px;
+        display: flex;
+        flex-direction: column;
+        box-shadow: 0.5px 10px #e6e6e6;
+        transition: 0.4s ease-in-out;
+        margin-top: 5%;
+      
+
+}
+.flexbox-container .card img {
+    max-width: 100%;
+    height: auto;
+}
+.imgBx:hover img{
+    transform: scale(1.1);
+}
+/*-----Sri Lankan Leopard------*/
+.section1 body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman';
+
+
+}
+.section1 {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 80%;
+}
+
+.section1 img{
+    height: 250px;
+    width: 500px;
+}
+.section1 h1{
+    color: greenyellow;
+}
+.text1 p{
+    color: white;
+
+}
+.sectionbox2 body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman';
+
+
+}
+.sectionbox2 {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 80%;
+}
+
+.sectionbox2 img{
+    height: 250px;
+    width: 500px;
+}
+.sectionbox2 h1{
+    color: red;
+}
+.textbox2 p{
+    color: white;
+
+}
+.section1 body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman';
+
+
+}
+.section42 {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 80%;
+    margin-left: 50px;
+}
+
+.section42 img{
+    height: 250px;
+    width: 500px;
+}
+.section42 h1{
+    color: greenyellow;
+}
+
+.footer {
+    
+    bottom: 0;
+    width: 100%;
+    background-color: aqua; 
+    text-align: center;
+    
+    height: 29px;
+}
+.footer1 {
+    position: fixed; 
+    bottom: 0;
+    width: 100%;
+    background-color: #f1f1f1; 
+    text-align: center;
+    padding: 0 px; /* Adjust the padding to make the footer smaller */
+    height: 20px; /* Adjust the height to make the footer smaller */
+}
+
+
+.footer1 p {
+    margin: 0;
+}
+  
+@media (max-width: 768px) {
+    .mainintro2 .textcontainer-2 .map {
+        border-radius: 8px;
+        overflow: hidden;
+        padding: 0;
+        width: 100px;
+        height: 50px;
+    }
+
+    /* Add additional styles for smaller screens */
+    .content h1 {
+        font-size: 80px; /* Adjust font size for smaller screens */
+    }
+
+    /* Add more responsive styles as needed */
+}
+.login-container {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+
+
